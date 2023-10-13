@@ -1,0 +1,48 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# Environment-specific files
+.env
+.env.*
+
+# IDE files and directories
+.idea/
+.vscode/
+
+# Dependency directories
+venv/
+venv*/
+.venv/
+.venv*/
+env/
+env*/
+.venv3/
+.venv3*/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+MANIFEST
+*.manifest
+.Python
+
+# Compiled C extensions
+__pycache__/
+*.so
+*.pyd
+*.dll
+*.pyo
+
+# pytest cache and test results
+.pytest_cache/
+pytestdebug.log
