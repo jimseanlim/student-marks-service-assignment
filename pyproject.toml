@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "app"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 fastapi = "^0.103.2"
 uvicorn = { version = "^0.20.0", extras = ["standard"] }
 pydantic = {version = "^1.10.4", extras = ["dotenv"]}
